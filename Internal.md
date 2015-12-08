@@ -12,7 +12,7 @@ Internal Benchmarking is a very commmon practice among police departments. SEAST
 #####Figure 2
 <img src="https://raw.githubusercontent.com/centerforgov/benchmarking/master/Figures/Internal%20Benchmarking%20Example%202.png">
 
-Public Safety agencies are not the only ones to leveraging internal benchmarking. It is also a very common public health practice. Figure 3 is pulled from Kansas City, Missouri's KCSTAT. It represents an example of a local public health department benchmarking current life expectancy of black and white males and females against their life expectancy in the past. In all cases, life expectancy has increased in Kansas City. 
+Public Safety agencies are not the only ones to leveraging internal benchmarking. It is also a very common public health practice. Figure 3 is [pulled from](http://kcmo.gov/wp-content/uploads/2013/12/KCStat-NeighborhoodsHealthyCommunities-presentation-August2015.pdf) Kansas City, Missouri's KCSTAT. It represents an example of a local public health department benchmarking current life expectancy of black and white males and females against their life expectancy in the past. In all cases, life expectancy has increased in Kansas City. 
 
 #####Figure 3
 <img src="https://raw.githubusercontent.com/centerforgov/benchmarking/master/Figures/Internal%20Benchmarking%20Example%203.png">
