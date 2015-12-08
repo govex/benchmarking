@@ -22,5 +22,15 @@ Figure 4 below is an example from the [Arizona Valley Benchmarking Initiative] (
 #####Figure 4
 <img src="https://raw.githubusercontent.com/centerforgov/benchmarking/master/Figures/External%20Benchmarking%20Example%201.png">
 
+The Community Foundation, sponsored by Boulder County, Colorado, publishes a [Boulder County Trends Report on Key Indicators] (http://www.commfound.org/trendsmagazine) which leverages external benchmarking to provide context to the performance in Boulder County. Figure 5 is a snapshot of one page of the report, which emphasizes the county's desire to become more diverse. The diversity data is benchmarked across multiple jurisdictions in the County as well as compared to the State of Colorado and the U.S. Population.
+
+#####Figure 5
+<img src="https://raw.githubusercontent.com/centerforgov/benchmarking/master/Figures/External%20Benchmarking%20Example%202.png">
+
+The same publication even uses trend lines to visually compare performance in one jurisdiction against another, as you can see in Figure 6. 
+
+#####Figure 6
+<img src="https://raw.githubusercontent.com/centerforgov/benchmarking/master/Figures/External%20Benchmarking%20Example%203.png">
+
 If naysayers say benchmarking is impossible because your government is so unique, remind them that the District of Columbia Government, which is probably the most unique form of government in the United States (because it functions simultaneously as a city, county and state with no federal voting representation in Congress), [manages to benchmark its performance against other comparable jurisdictions](http://dc.gov/sites/default/files/dc/sites/ocfo/publication/attachments/FY%202015%20benchmarking%20study.pdf). 
 
