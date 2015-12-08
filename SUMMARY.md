@@ -3,4 +3,4 @@
   * [Internal Benchmarking](Internal.md)
   * [External Benchmarking](External.md)
 * [What is a Proxy Measure?](Proxy.md)
-* [Useful Links] (Links.md)
+* [Useful Links](Links.md)
