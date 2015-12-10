@@ -9,7 +9,7 @@ The first step in external benchmarking is finding a comparable jurisdiction, an
 
 Once an organization identifies a comparable cohort, external benchmarking can begin. The key is finding commonly measured services (and metrics) between and among the jurisdictions being compared. For example, if two government organizations collect trash AND measure pounds of trash collected, then they can compare themselves to one another. Here are some common services that most jurisdictions have in common:
 * Refuse Collection & Recycling
-* Police & Fire and Emergency Services
+* Police, Fire and Emergency Services
 * Street Maintenance 
 * Building Inspection & Code Enforcement
 * Human Resources
@@ -17,12 +17,12 @@ Once an organization identifies a comparable cohort, external benchmarking can b
 * Parks & Recreation
 * Public Education
 
-Figure 4 below is an example from the [Arizona Valley Benchmarking Initiative] (https://urbaninnovation.asu.edu/research/reports/valley-benchmark-cities-2014-2015/view) and [compares the fire department response times](file:///Users/chewgley/Downloads/VBC%20Reduced%20Size%20Report.pdf) across multiple jurisdictions in the same geographic area. 
+Figure 4 below is an example from the [Arizona Valley Benchmarking Initiative](https://urbaninnovation.asu.edu/research/reports/valley-benchmark-cities-2014-2015/view) and [compares the fire department response times](file:///Users/chewgley/Downloads/VBC%20Reduced%20Size%20Report.pdf) across multiple jurisdictions in the same geographic area. 
 
 #####Figure 4
 <img src="https://raw.githubusercontent.com/centerforgov/benchmarking/master/Figures/External%20Benchmarking%20Example%201.png">
 
-The Community Foundation, sponsored by Boulder County, Colorado, publishes a [Boulder County Trends Report on Key Indicators] (http://www.commfound.org/trendsmagazine) which leverages external benchmarking to provide context to the performance in Boulder County. Figure 5 is a snapshot of one page of the report, which emphasizes the county's desire to become more diverse. The diversity data is benchmarked across multiple jurisdictions in the County as well as compared to the State of Colorado and the U.S. Population.
+The Community Foundation, sponsored by Boulder County, Colorado, publishes a [Boulder County Trends Report on Key Indicators](http://www.commfound.org/trendsmagazine) which leverages external benchmarking to provide context to the performance in Boulder County. Figure 5 is a snapshot of one page of the report, which emphasizes the county's desire to become more diverse. The diversity data is benchmarked across multiple jurisdictions in the County as well as compared to the State of Colorado and the U.S. Population.
 
 #####Figure 5
 <img src="https://raw.githubusercontent.com/centerforgov/benchmarking/master/Figures/External%20Benchmarking%20Example%202.png">
