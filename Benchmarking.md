@@ -3,10 +3,8 @@
 Benchmaring is a practice that attempts to answer one of life's most ubiquitous questions: *what does success look like?* As individuals, we benchmark every day. We look around at our friends and colleageues and say things like this to ourselves:
 * I should be making more money because my coworker is making more money and we are the same age.
 * I should own a house by now, because all my friends own houses already. 
-* I should travel more, because everyone on social media seems to travel to such interesting places. 
-* I should lose weight, because the person on that magazine cover is what I should look like.
 
-As individuals, this isn't a healthy practice. It is called *comparative living* and there is no *one best way* to live your life. But as a government organization, benchmarking can prove very constructive because there are certain goals that are universally accepted as in the public's best interest. For example, governments want to:
+As individuals, this isn't a very healthy practice. But as a government organization, benchmarking can prove very constructive because there are certain goals that are universally accepted as in the public's best interest. For example, governments want to:
 * help individuals, communities and businesses to thrive and prosper
 * ensure people are healthy, safe and secure
 * educate children with knowledge and skills that will help them contribute and succeed
