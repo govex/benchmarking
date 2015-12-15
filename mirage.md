@@ -12,7 +12,7 @@ Mobility is a key driver of a jurisdiction's economy and population. Cities that
 
 **Thinking about Infrastructure**
 
-The United States is a young country, but the infrastructure is aging at varying rates. Housing stock in the Northeast faces a different set of issues than housing stock on the west coast. 
+The United States is a young country, but the infrastructure is aging at varying rates. Housing stock in the Northeast faces a different set of issues than housing stock on the west coast. Transportation networks were built at different times, with varying 
 
 **Thinking about Politics and Governance**
 
