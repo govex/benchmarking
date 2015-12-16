@@ -1,6 +1,6 @@
 # What is Benchmarking?
 
-Benchmaring is a practice that attempts to answer one of life's most ubiquitous questions: *what does success look like?* As individuals, we benchmark every day. We look around at our friends and colleageues and say things like this to ourselves:
+Benchmarking is a practice that attempts to answer one of life's most ubiquitous questions: *what does success look like?* As individuals, we benchmark every day. We look around at our friends and colleagues and say things like this to ourselves:
 * I should be making more money because my coworker is making more money and we are the same age.
 * I should own a house by now, because all my friends own houses already. 
 
