@@ -7,7 +7,7 @@ The first step in external benchmarking is finding a comparable jurisdiction, an
 * The [Bureau of Labor Statistics](http://www.bls.gov/regions/home.htm) has labor force, wages, and price data for multiple geographic regions
 * Wikipedia has [several lists](https://en.wikipedia.org/wiki/Category:Lists_of_cities_in_the_United_States_by_population) of cities in the United States ranked by population
 
-However, finding an appropriate benchmarking comparison can be a difficult task, and perfect matches do not exist. Governments should think about [the benchmarking mirage](https://centerforgov.gitbooks.io/benchmarking/content/mirage.html) before putting significant resources behind a benchmarking effort. 
+However, finding an appropriate benchmarking comparison can be difficult, and perfect matches do not exist. Governments should think about [the benchmarking mirage](https://centerforgov.gitbooks.io/benchmarking/content/mirage.html) before putting significant resources behind a benchmarking effort. 
 
 Once an organization identifies a comparable cohort, external benchmarking can begin. The key is finding commonly measured services (and metrics) between and among the jurisdictions being compared. For example, if two government organizations collect trash AND measure pounds of trash collected, then they can compare themselves to one another. Here are some common services that most jurisdictions have in common:
 * Refuse Collection & Recycling
